@@ -1,5 +1,6 @@
 # ML_Traffic_Flow
 Project for Emerging Trends module, use PyGame to establish if ML has notable affect on vehicles exited.
+Future enhancements - Fix lack of northbound traffic. Implement a more complex ML model (Deep Q?).
 
 Without ML
 ![without ML](https://github.com/user-attachments/assets/d48676ed-7671-4eb1-89b8-b88f7574df53)
